@@ -1,6 +1,3 @@
-Hi 👋 My name is Oleh Boichuk
-=============================
-
 Android Developer
 -----------------
 
@@ -10,9 +7,6 @@ I spend all my time developing, maintaining existing applications and third part
 * ✉️  You can contact me at [bojchu7@gmail.com](mailto:bojchu7@gmail.com)
 * 🚀  I'm currently working on [personal and work projects](http://github.com/c0nnor263?tab=repositories)
 * 🤝  I'm open to collaborating on interesting projects and server applications related to Android development
-
-<a href="https://www.github.com/c0nnor263" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/c0nnor263?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a>
 
 ### Skills
 
