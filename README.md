@@ -1,12 +1,12 @@
 Android Developer
 -----------------
 
-I spend all my time developing, maintaining existing applications and third party libraries. My current main tech stack is Kotlin, Ktor, KMP and Jetpack Compose
+I focus on developing, maintaining existing applications and third party libraries. My current main tech stack is Kotlin, Ktor, KMP and Jetpack Compose
 
-* 🌍  I'm based in Ukraine, Mykolaiv
+* 🌍  Based in Ukraine, Mykolaiv
 * ✉️  You can contact me at [bojchu7@gmail.com](mailto:bojchu7@gmail.com)
-* 🚀  I'm currently working on [personal and work projects](http://github.com/c0nnor263?tab=repositories)
-* 🤝  I'm open to collaborating on interesting projects and server applications related to Android development
+* 🚀  Currently working at Capgemini Engineering
+* 🤝  Open to collaboration on exciting Android-related projects, especially involving server-side integration
 
 ### Skills
 
