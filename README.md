@@ -5,7 +5,7 @@ I focus on developing, maintaining existing applications and third party librari
 
 * 🌍  Based in Ukraine, Mykolaiv
 * ✉️  You can contact me at [bojchu7@gmail.com](mailto:bojchu7@gmail.com)
-* 🚀  Currently working at Capgemini Engineering
+* 🚀  Currently working at Capgemini Engineering(https://capgemini-engineering.com.ua/)
 * 🤝  Open to collaboration on exciting Android-related projects, especially involving server-side integration
 
 ### Skills
